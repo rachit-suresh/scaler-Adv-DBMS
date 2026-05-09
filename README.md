@@ -1,5 +1,8 @@
 # SQLite3 and PostgreSQL Storage Experiment
 
+**Name:** Rachit S  
+**Roll Number:** 24bcs10139
+
 This report compares SQLite3 and PostgreSQL using the same simple `users`
 table. I used 200,000 generated rows with four columns: `id`, `name`, `email`,
 and `created_at`.
